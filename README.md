@@ -1,8 +1,10 @@
 # Git-Initialization
 
 # configure commands
-$git config --global user.name "Your Name"
-$git config --global user.email "youremail@example.com"
+      
+      $git config --global user.name "Your Name"
+
+      $git config --global user.email "youremail@example.com"
 
 
 # Check existing user 
